@@ -17,4 +17,11 @@ One can also change the extension of the encrypted file and even the size of the
 Finally, the pip packages needed -
 `pip install pycryptography PyQt5 subprocess hashlib smtplib`
 
+Usage-
+1) Fill all the directory paths according to your need in all the scripts
+2) Fill in the email details if that function is needed or delete that part of the script
+3) Run startup (NOTE: All the files must be in the same folder)
+4) Prefer running through a code editor such as VSCode
+5) Sit back and relax while we monitor your folder for you!
+
 
