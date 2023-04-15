@@ -9,13 +9,13 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.application import MIMEApplication
 
 
-dir_path = "C:\\Users\\mhpc\\Desktop\\private"
+dir_path = "C:\\Users\\username\\foldername"
 
 #input your password recieved by google after enabling use of less secure apps
 #email addresses to be modifies according to need
-sender_email = "ruchirrfor9@gmail.com"
+sender_email = "sender email"
 sender_password = 'xxxxxxxxx'
-recipient_email = "lranjitaa@gmail.com"
+recipient_email = "recipient email"
 
 
 current_files = {}
