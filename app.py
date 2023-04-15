@@ -14,7 +14,7 @@ dir_path = "C:\\Users\\mhpc\\Desktop\\private"
 #input your password recieved by google after enabling use of less secure apps
 #email addresses to be modifies according to need
 sender_email = "ruchirrfor9@gmail.com"
-sender_password = 'cugygclcpcbgfcgj'
+sender_password = 'xxxxxxxxx'
 recipient_email = "lranjitaa@gmail.com"
 
 
