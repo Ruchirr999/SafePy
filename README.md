@@ -17,4 +17,6 @@ Finally, the pip packages needed -
 pycryptography
 PyQt5
 subprocess
+hashlib
+smtplib
 
