@@ -1,4 +1,4 @@
-# ccws-project
+# SafePy
 This is a script that provides access control and encryption capablities on a file or folder.
 It is extremely useful for organizations wanting to get one step ahead of hackers by ensuring their files never get compromised by a bad actor.
 
