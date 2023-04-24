@@ -11,6 +11,8 @@ from email.mime.application import MIMEApplication
 
 dir_path = "C:\\Users\\username\\foldername"
 
+print('The app is now monitoring', dir_path)
+
 #input your password recieved by google after enabling use of less secure apps
 #email addresses to be modifies according to need
 sender_email = "sender email"
