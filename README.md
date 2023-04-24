@@ -15,7 +15,7 @@ You need to change all the folders and directories according to your own need.
 One can also change the extension of the encrypted file and even the size of the encryption key via making appropriate changes.
 
 Finally, the pip packages needed -
-`pip install pycryptography PyQt5 subprocess hashlib smtplib`
+`pip install pycryptodomex PyQt5 smtplib`
 
 Usage-
 1) Fill all the directory paths according to your need in all the scripts
